@@ -1,0 +1,10 @@
+This design is licensed under the TAPER Open Hardware License version 1.0 
+
+Located at: http://www.tapr.org/TAPR_Open_Hardware_License_v1.0.pdf
+
+The reasoning here is simple. Most of this design is a compendeum of existng TAPR boards put into one layout.
+
+The only orignal pieces are the filter control, connectivity to the Red Pitaya and the LNA.  
+
+The power system is a copy of the TAPR LPU. The 1W PA is extracted from the Penelope, and the T/R design is 
+from the TAPR T/R board.   
